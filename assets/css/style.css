@@ -1,0 +1,41 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer p {
+    color: #707070;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+}
+
+.title_card {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+}
+
+.direction_paragraph {
+    font-size: 0.9rem;
+}
+
+.form-control-text {
+    color: rgb(159, 138, 138);
+    border-radius: 6px;
+    width: 100%;
+}
+
+.button_color {
+    color: #212529;
+}
+
+.logo_negro {
+    width: 25%;
+}
+
+.logo_blanco {
+    width: 40%;
+}
